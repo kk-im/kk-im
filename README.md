@@ -1,5 +1,6 @@
-<h1 align="center">Hello 👋, I'm Kelly</h1>
-<h3 align="center">A creative copywriter and developer based in CDMX/AKL</h3>
+<h1 align="center">Hello / Hola / 안녕하세요 
+</h1>
+<h3 align="center"> I'm a creative copywriter and developer based in CDMX/AKL</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails, Node.js, React.js**
 

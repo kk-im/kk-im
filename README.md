@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kelly_kimm@outlook.com**
 
-- ⚡ Fun fact **I've lived in 7 countries, and speak (almost) 3 lanuguages**
+- ⚡ Fun fact **I've lived in 7 countries, and speak (almost) 3 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

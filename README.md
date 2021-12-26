@@ -1,21 +1,34 @@
-<h1 align="center">Hello / Hola / 안녕하세요 
-</h1>
-<h3 align="center"> I'm a creative copywriter,movement artist and developer based in CDMX/AKL</h3>
+# Hello/Hola 🌞 — I'm Kelly 👋
 
-- 🌱 I’m currently learning **Ruby on Rails, Node.js, React.js**
+![HTML](https://img.shields.io/badge/HTML-Expert-black)
+![CSS](https://img.shields.io/badge/CSS-Expert-black)
+![Ruby on Rails](https://img.shields.io/badge/RoR-Intermediate-lightgrey)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-black)
+![Solidity](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![React](https://img.shields.io/badge/Bash-Intermediate-lightgrey)
+![Solidity](https://img.shields.io/badge/Solidity-Novice-yellow)
 
-- 👨‍💻 All of my projects are available at kellykim.xyz
+Korea-born 🇰🇷, NZ-raised, Aussie-nurtured.
+🌐 Nomadic Web3 Frontend Developer and Writer.
+Passion for human-centered design, artisanal innovation and multidisciplinary art propelling the current epoch.
+🐰 Very deep in the rabbithole.
 
-- 📫 How to reach me **hi@kellykim.co**
+- 🔭 Bachelor's degree in **Commerce (Marketing)** at USyd
+- 🌱 I’m currently learning **Smart Contract Development** and **the ecosystem of DAOs**
+- 🌱 Diving into creative coding with **p5.js** and **webGLs**
+- ⚙️ Mastering: React, React Native, Typescript, p5.js, Node.js
+- 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
+- 💬 I'm mostly active within the **web3**, **NFT Dance & Performance**, and **frontend** communities
+- 🎤 Founder/Host of KryptoKelly: A web3 vlog humanising the world of web3
 
-- ⚡ Fun fact **I've lived in 7 countries, and speak (almost) 3 languages**
+### 📬 Writing
+- [DEV](https://dev.to/kkim)
+- [Hashnode](https://kryptokelly.com/)
+- Mirror.xyz
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kk-im" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kk-im" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kellyswkim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kellyswkim" height="30" width="40" /></a>
-<a href="https://instagram.com/k__kimm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k__kimm" height="30" width="40" /></a>
-</p>
+### 📬 Get in Touch
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- [LinkedIn](https://www.linkedin.com/in/kellyswkim/)
+- [Website](kellykim.xyz)
+- [E-mail](hi@kellykim.co)
+- [Twitter](https://twitter.com/kelly__kimm)

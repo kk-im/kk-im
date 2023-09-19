@@ -1,20 +1,27 @@
 
-### Hola ★  
-### I'm Kelly — Developer Evangelist at [Pinata](https://www.pinata.cloud/) 😇  
-  
+### Hola 😃
+### I'm Kelly — Co-founder/CEO of [Around](https://www.stayaround.xyz/)
 
-- 🌐 Nomadic since 2020.  
-  
+- 🌐 Nomadic since 2020 (33 countries, 71 cities — and counting)
+- 🥐 I have a thing for bakeries
+- 🪩 Sometimes, [I vogue down](https://www.instagram.com/p/B_DmaPhohuo/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
-- 🎙️ I'm the founder/host of [Proof of Human](https://proofofhumanpod.xyz/), a podcast validating the human nodes of the web3 ecosystem.  
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/kellykim_xyz" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/kellyswkim" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/kellykim_xyz" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@https://kellykim.hashnode.dev/" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
-
-- 🪩 I dance for pleasure (and sometimes seriously). My styles are vogue and house.  
-  
-
-- 🥐 I run a blog/IG about carbs. It's called [carbnomad](https://www.instagram.com/carbnomad/).
-  
-
 <br/>  
 
 
@@ -58,25 +65,7 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/kk-im" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/kellykim_xyz" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kellyswkim" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/kellykim_xyz" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@https://kellykim.hashnode.dev/" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+
 
 <br/>  
 

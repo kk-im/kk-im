@@ -20,11 +20,13 @@
 
 
 ### My Stack
-- JavaScript, ReactJS, TypeScript
-- Node.js
-- HTML5, CSS3
-- Tailwind, MUI, shadcn
+- HTML5, CSS3, JavaScript(ES6), ReactJS/TypeScript
+- Next.JS, Svelte, Vite, Vercel
+- Node.js, Firebase
+- TailwindCSS, shadcn, MUI
 - Git
+- Framer, Lenis, GSAP
+- Webflow, Wix
 
 
 ## Github Stats  

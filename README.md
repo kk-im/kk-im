@@ -21,11 +21,13 @@
 ### My Stack
 - HTML5, CSS3, JavaScript(ES6), ReactJS/TypeScript
 - Next.JS, Svelte, Vite, Vercel
-- Node.js, Firebase
+- Node.js, Firebase, Git
 - TailwindCSS, shadcn, MUI
-- Git
 - Framer, Lenis, GSAP
 - Webflow, Framer, Wix
+- Alchemy, Infura, RemixIDE
+- Web3.js, Ethers.js, Thirdweb, Hardhat, Truffle
+- IPFS, Infura
 
 
 ## Github Stats  

@@ -1,10 +1,9 @@
 
 ### Hola 😃 — I'm Kelly
 
-- 👩🏻‍💻 I like building products and tools at the bleeding edge of tech
+- 👩🏻‍💻 I like building products and apps at the bleeding edge of tech
 - 🌐 Nomadic since 2020 (33 countries, 71 cities — and counting)
 - 🥐 I have a thing for bakeries
-- 🪩 Sometimes, [I vogue down](https://www.instagram.com/p/B_DmaPhohuo/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 <br/>
 

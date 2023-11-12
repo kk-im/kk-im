@@ -25,7 +25,7 @@
 - TailwindCSS, shadcn, MUI
 - Git
 - Framer, Lenis, GSAP
-- Webflow, Wix
+- Webflow, Framer, Wix
 
 
 ## Github Stats  

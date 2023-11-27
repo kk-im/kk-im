@@ -20,10 +20,10 @@
 
 ### My Stack
 - HTML5, CSS3, JavaScript(ES6), ReactJS/TypeScript
-- Next.JS, Svelte, Vite, Vercel
+- Next.JS, Vite, Vercel, Sanity
 - Node.js, Firebase, Git
 - TailwindCSS, shadcn, MUI
-- Framer, Lenis, GSAP
+- Framer, Lenis, GSAP, Locomotive Scroll
 - Webflow, Framer, Wix
 - Alchemy, Infura, RemixIDE
 - Web3.js, Ethers.js, Thirdweb, Hardhat, Truffle

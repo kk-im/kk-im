@@ -23,6 +23,7 @@
 - Next.JS, Vite, Vercel, Sanity
 - Node.js, Firebase, Git
 - TailwindCSS, shadcn, MUI
+- Sanity, Strapi, Astro
 - Framer, Lenis, GSAP, Locomotive Scroll
 - Webflow, Framer, Wix
 - Alchemy, Infura, RemixIDE

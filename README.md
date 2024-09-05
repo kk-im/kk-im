@@ -1,19 +1,19 @@
 
 ### Hola 😃 — I'm Kelly
 
-- 👩🏻‍💻 I like building products and apps at the bleeding edge of tech
-- 🌐 Nomadic since 2020 (33 countries, 71 cities — and counting)
+- 👩🏻‍💻 I'm all about that taste
+- I host and yap on a podcast, [TA$TE](https://www.tastepod.xyz/)
+- 🌐 Nomadic since 2020 (36 countries, 76 cities — and counting)
 - 🥐 I have a thing for bakeries
 
 <br/>
 
 ### Connect with me
 [Portfolio](https://www.kellykim.xyz/)
-[X](https://twitter.com/kellykim_xyz)
+[X](https://x.com/kellykim_xyz)
+[Farcaster]([https://warpcast.com/kellykim_xyz](https://warpcast.com/kellykim.eth))
 [LinkedIn](https://linkedin.com/in/kellyswkim)
 [IG](https://instagram.com/kellykim_xyz)
-[Medium](https://medium.com/@kellykimxyz)
-[Hashnode](https://hashnode.com/@https://kellykim.hashnode.dev) 
   
 <br/>  
 
